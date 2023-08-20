@@ -29,7 +29,7 @@ First create an account for Microsoft Azure
 *Name the Virtual Machine. Select Windows 10 as the image, and create a username and password  for the Virtual Machine.*
 
 ![Creating A Virtual Machine 2](https://github.com/Ken7281/osticket-prereqs/assets/142465932/7ce60b0d-79da-4ec8-afe0-88a23d2d7906)
-*Agree to the terms and conditions and select review and create*
+*Agree to the terms and conditions and select review + create*
 
 - Item 2
 - Item 3
