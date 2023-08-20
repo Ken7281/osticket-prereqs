@@ -19,8 +19,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
+First create an account for Microsoft Azure 
 
-- Item 1
+- Step 1 Create a Resource group and Virtual Machine in Microsoft Azure. When creating the Virtual Machine make sure to select the Resource Group you created.
+- Name the Virtual Machine. Select Windows 10 as the image, and create a username and password  for the Virtual Machine.
+![Create A Resource Group](https://github.com/Ken7281/osticket-prereqs/assets/142465932/0adb9691-2d45-4994-9156-8f7378adcabe)
+![Creating A Virtual Machine 1](https://github.com/Ken7281/osticket-prereqs/assets/142465932/19fd9d15-68f8-41c2-be23-a1a7d45692f4)
+![Creating A Virtual Machine 2](https://github.com/Ken7281/osticket-prereqs/assets/142465932/7ce60b0d-79da-4ec8-afe0-88a23d2d7906)
+
+
 - Item 2
 - Item 3
 - Item 4
