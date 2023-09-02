@@ -37,7 +37,7 @@ Select "turn windows features on or off", then select "internet information serv
 Go to "Common HTTP features" and check all of the boxes and click ok to confirm the changes. 
 ![Turning Off Some Windows Features](https://github.com/Ken7281/osticket-prereqs/assets/142465932/5baca146-aa87-438a-9a1c-c850b11d8e63)
 
-*Download "PHP Manager*
+*Download "PHPManagerForIIS_V1.5.0.msi*
 
 On the windows file explorer go to Windows C and creat a new folder. Install PHP 7.3.8 and extract all files into the PHP folder. 
 
@@ -49,12 +49,11 @@ On the start menu select IIS ticket and right click to run as an administrator.
 ![Running IIS as an administrator](https://github.com/Ken7281/osticket-prereqs/assets/142465932/31d56c6c-f872-4793-8f36-f39ab6d9383e)
 Select PHP Manager, click register new PHP version, click on the dash on the right to the C: drive and open the PHP folder. Click PHP-CGI and press ok. Select the virtual machine you created and restart.
 
+*Download osTicket-v1.15.8.zip* double click to open the zipped file. Open the windows C: and open inetpub and open the wwwroot folder.
+On a seperate file manger drag the upload folder from the osticket zippped file into the wwwroot folder. Rename the upload folder to OsTicket. 
+![Moving the Upload Folder To The wwroot folder on the C; drive](https://github.com/Ken7281/osticket-prereqs/assets/142465932/47e21d26-2fa8-4479-ba23-1447573057f4)
 
 
-
-- Item 5
-
-<h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
