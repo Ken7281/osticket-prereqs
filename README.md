@@ -62,9 +62,6 @@ Restart the virtual machine as an administrator. Under the virtual machines conn
 expand sites, expand default web site, and double click OsTicket. On the right click browse *80 and open OsTicket installer.
 ![Browsing To The osTicket site](https://github.com/Ken7281/osticket-prereqs/assets/142465932/9e11855e-a4d6-48d1-9361-a410ec48027d)
 
-</p>
-<br />
-
 <p>
 Double click PHP Manager and selecet disable an extension
   enable PHP imap.dll, enable PHP intl.dll, enable PHP opcache.dll, and refresh the OsTicket web page. Go to the OsTicket folder in the wwwroot folder. open the include folder and rename the ost-sampleconfig.php to ost-config.php.
