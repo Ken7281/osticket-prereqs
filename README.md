@@ -31,9 +31,27 @@ First create an account for Microsoft Azure
 ![Creating A Virtual Machine 2](https://github.com/Ken7281/osticket-prereqs/assets/142465932/7ce60b0d-79da-4ec8-afe0-88a23d2d7906)
 *Agree to the terms and conditions and select review + create*
 
-- Item 2
-- Item 3
-- Item 4
+*After creating the Virtual Machine, use Remote Desktop ino the Virtual Machine using it's IP adress*
+On the Virtual Machine search for Internet Information Services Manager (IIS) 
+Select "turn windows features on or off", then select "internet information services". Select the "world wide web services" box, select "application Development Features", check the CGI Box. 
+Go to "Common HTTP features" and check all of the boxes and click ok to confirm the changes. 
+![Turning Off Some Windows Features](https://github.com/Ken7281/osticket-prereqs/assets/142465932/5baca146-aa87-438a-9a1c-c850b11d8e63)
+
+*Download "PHP Manager*
+
+On the windows file explorer go to Windows C and creat a new folder. Install PHP 7.3.8 and extract all files into the PHP folder. 
+
+*Download VC_redist.x86.exe* 
+
+*Download & install mysql-5.5.62-win32.msi* The username is root, create a password and complete the download. 
+
+On the start menu select IIS ticket and right click to run as an administrator.
+![Running IIS as an administrator](https://github.com/Ken7281/osticket-prereqs/assets/142465932/31d56c6c-f872-4793-8f36-f39ab6d9383e)
+Select PHP Manager, click register new PHP version, click on the dash on the right to the C: drive and open the PHP folder. Click PHP-CGI and press ok. Select the virtual machine you created and restart.
+
+
+
+
 - Item 5
 
 <h2>Installation Steps</h2>
