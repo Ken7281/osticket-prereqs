@@ -60,7 +60,8 @@ On a seperate file manger drag the upload folder from the osticket zippped file 
 <p>
 Restart the virtual machine as an administrator. Under the virtual machines connections tab 
 expand sites, expand default web site, and double click OsTicket. On the right click browse *80 and open OsTicket installer.
-![Browsing To The osTicket site](https://github.com/Ken7281/osticket-prereqs/assets/142465932/9e11855e-a4d6-48d1-9361-a410ec48027d)
+  
+ ![Browsing To The osTicket site](https://github.com/Ken7281/osticket-prereqs/assets/142465932/9e11855e-a4d6-48d1-9361-a410ec48027d)
 
 <p>
 Double click PHP Manager and selecet disable an extension
@@ -70,11 +71,13 @@ select "principal and type "everyone" into the objects name box and click check 
 </p>
 <p>
 Click continue on the OsTicket installer and create a "name" and "email" and complete the admin user information. 
-![HelpDesk Setup](https://github.com/Ken7281/osticket-prereqs/assets/142465932/dd2f71cb-ed9b-4fe4-bf5a-cb20c9f9319d)
+  
+ ![HelpDesk Setup](https://github.com/Ken7281/osticket-prereqs/assets/142465932/dd2f71cb-ed9b-4fe4-bf5a-cb20c9f9319d)
 </p>
 <br />
 *Download HeidiSQL_12.3.0.6589_Setup.exe* 
 Open HeidiSQL and ricght click on unnamed. Click create new, and select database. Name the database OsTicket & click ok. 
+
 ![Creating a new database in Heidisql](https://github.com/Ken7281/osticket-prereqs/assets/142465932/6901f8ec-9a58-4aef-9f31-96ffda845cfd)
 <p>
 Type OsTicket on the MySQL database. Under database settings click install OsTicket.
