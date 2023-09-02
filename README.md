@@ -53,18 +53,16 @@ Select PHP Manager, click register new PHP version, click on the dash on the rig
 On a seperate file manger drag the upload folder from the osticket zippped file into the wwwroot folder. Rename the upload folder to OsTicket. 
 ![Moving the Upload Folder To The wwroot folder on the C; drive](https://github.com/Ken7281/osticket-prereqs/assets/142465932/47e21d26-2fa8-4479-ba23-1447573057f4)
 
-
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Restart the virtual machine as an administrator. Under the virtual machines connections tab 
+expand sites, expand default web site, and double click OsTicket. On the right click browse *80 and open OsTicket installer.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
